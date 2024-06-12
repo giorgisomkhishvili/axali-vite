@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p style={{ color: 'red', fontSize: '50px' }}>
-          yes baby a'm here,daje icvleba
+          yes baby a'm here,daje icvleba,axali cvlileba!!
         </p>
       </div>
       <p className="read-the-docs">
